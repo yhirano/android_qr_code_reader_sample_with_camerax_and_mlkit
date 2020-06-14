@@ -1,0 +1,2 @@
+rootProject.name='android_qr_code_reader_sample'
+include ':app'
